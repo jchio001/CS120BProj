@@ -4,8 +4,9 @@
  *  Lab Section: 23
  *  Assignment: Project
  *  Exercise Description:
- *  
- *  
+ *  http://winavr.scienceprog.com/example-avr-projects/simplified-avr-lcd-routines.html  
+ *  Used as reference for defing a custom char
+ *
  *  I acknowledge all content contained herein, excluding template or example 
  *  code, is my own original work.
  */
